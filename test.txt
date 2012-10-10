@@ -1,5 +1,7 @@
 Here's a file
+Added a line here
 With some lines
-This one is going to change
+Added another line here
+This one is already changed
 And more lines
 Yet more lines
