@@ -14,6 +14,7 @@ line 12
 line 13
 line 14
 line 15
+Line added in the middle
 line 16
 line 17
 line 18
