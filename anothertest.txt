@@ -1,4 +1,5 @@
 line 1
+Line added after line 1
 line 2
 line 3
 line 4
@@ -13,6 +14,7 @@ line 12
 line 13
 line 14
 line 15
+Line added in the middle
 line 16
 line 17
 line 18
@@ -28,4 +30,5 @@ line 27
 line 28
 line 29
 line 30
+Line added after line 30
 line 31
